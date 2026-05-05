@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: lineal-gradient(to right, #49b628, #6aff8b);
+    margin: 0;
+    padding: 0;
+
+}
+
+h1{
+    color: rgb(214, 214, 214);
+}
+
+nav a {
+text-decoration: none;
+margin: 10px;
+color: black;
+font-weight: bold;
+border-radius: 5px;
+transition: 0.3s;
+}
+
+nav a:hover {
+background-color: rgb(85, 238, 39);
+color: blanchedalmond;
+}
