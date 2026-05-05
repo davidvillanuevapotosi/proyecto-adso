@@ -1,10 +1,9 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    background-color: lineal-gradient(to right, #49b628, #6aff8b);
-    margin: 0;
-    padding: 0;
-
+    background-image: linear-gradient(to right, #28adb6, #6affff);
+    margin: 0px;
+    padding: 0px;
 }
 
 h1{
@@ -47,7 +46,7 @@ gap: 12px;
 
 .formulario input {
 padding: 10px;
-border: #6aff8b;
+border: 1px solid #ccc;
 }
 
 .formulario button {
