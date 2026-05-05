@@ -24,3 +24,43 @@ nav a:hover {
 background-color: rgb(85, 238, 39);
 color: blanchedalmond;
 }
+
+.container {
+background-color:aliceblue;
+width: 350px;
+margin: 80px auto;
+padding: 30px;
+border-radius: 120px;
+box-shadow:#49b628 0px 0px 10px ;
+}
+
+.formulario {
+display: flex;
+flex-direction: column;
+gap: 12px;
+}
+
+.formulario label {
+    text-align: left;
+    font-weight: bold;
+}
+
+.formulario input {
+padding: 10px;
+border: #6aff8b;
+}
+
+.formulario button {
+margin-top: 10px;
+padding: 10px;
+background-color: #49b628;
+color: white;
+border-radius: 5px;
+border: none;
+font-weight: bold;
+cursor: pointer;
+}
+
+.formulario button:hover {
+background-color: #6aff8b;
+}
